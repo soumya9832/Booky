@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Booklet</string>
+    <string name="email_text">e_mail</string>
+    <string name="password_text">password</string>
+    <string name="signup_button_text">SignUp</string>
+    <string name="login_text">Already Registered, Login</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_text">Not Yet Register, Sign Up</string>
+    <string name="welcome_text">Welcome, Thanks To Visit Our App, Click On Next</string>
+    <string name="next_text"><![CDATA[>>Next]]></string>
+    <string name="please_wait">loading</string>
+    <string name="name_text">Name</string>
+    <string name="username_text">Username</string>
+    <string name="image_text">Image</string>
+    <string name="my_profile_text">My Profile</string>
+    <string name="signout_text">Sign Out</string>
+    <string name="update_text">Update</string>
+</resources>
